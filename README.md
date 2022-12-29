@@ -13,13 +13,24 @@ Hi Everyone, this is the code for a GUI-based Java FX Application to track, sear
 3. No other additional JAR file is needed. Eclipse IDE is preferred to run the code.
 
 **Application Demo**
+
+CyberCop Home Screen
 <br />
-<br />
-<br />
+<img width="80%" alt="home screen 1" src="https://user-images.githubusercontent.com/59091360/210006371-bfce8a3d-7bb8-4012-b3d5-1d195c001ef5.png">
 
 Reading in files with incorrect data
+<br />
+<img width="80%" alt="home screen 2" src="https://user-images.githubusercontent.com/59091360/210004286-d8e4253d-1d9b-4ec3-b4eb-9f2fe5d50d7e.png" ratio=0.01>
 
-<img width="1270" alt="home screen 2" src="https://user-images.githubusercontent.com/59091360/210004286-d8e4253d-1d9b-4ec3-b4eb-9f2fe5d50d7e.png" ratio=0.01>
+Modifying cases
+<br />
+<img width="80%" alt="modify screen" src="https://user-images.githubusercontent.com/59091360/210006418-80c96b38-4144-4c96-b994-75cbd871bbee.png">
 
+Exception Handling discarding incorrect data
+<br />
+<img width="1268" alt="exception 1" src="https://user-images.githubusercontent.com/59091360/210006459-3237e97f-0bdd-431d-8a13-1762c391cde2.png">
 
+Chart summarzing cases by year
+<br />
+<img width="1270" alt="summary stats" src="https://user-images.githubusercontent.com/59091360/210006504-50bec4d4-0e63-41ab-9cf9-09323d07461d.png">
 
