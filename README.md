@@ -13,8 +13,9 @@ Hi Everyone, this is the code for a GUI-based Java FX Application to track, sear
 3. No other additional JAR file is needed. Eclipse IDE is preferred to run the code.
 
 **Application Demo**
-/n
-/n
+<br />
+<br />
+<br />
 
 Reading in files with incorrect data
 
