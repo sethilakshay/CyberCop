@@ -14,7 +14,7 @@ Hi Everyone, this is the code for a GUI-based Java FX Application to track, sear
 
 **Application Demo**
 
-<p?
+<p>
 <em>Application Opening Screen</em>
 <img width=75% alt="home screen 1" src="https://user-images.githubusercontent.com/59091360/210004188-184c1093-4e9d-43f0-ac0f-2c0cc5c7c773.png" ratio=0.01>
 </p>
