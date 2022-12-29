@@ -14,7 +14,7 @@ Hi Everyone, this is the code for a GUI-based Java FX Application to track, sear
 
 **Application Demo**
 
-Application Opening Screen<img width=80% alt="home screen 1" src="https://user-images.githubusercontent.com/59091360/210004188-184c1093-4e9d-43f0-ac0f-2c0cc5c7c773.png" ratio=0.01>
+Application Opening Screen<img width=85% alt="home screen 1" src="https://user-images.githubusercontent.com/59091360/210004188-184c1093-4e9d-43f0-ac0f-2c0cc5c7c773.png" ratio=0.01>
 
 Reading in files with incorrect data<img width="1270" alt="home screen 2" src="https://user-images.githubusercontent.com/59091360/210004286-d8e4253d-1d9b-4ec3-b4eb-9f2fe5d50d7e.png" ratio=0.01>
 
